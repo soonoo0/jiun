@@ -25,7 +25,7 @@ export const Translations = {
     Recording: '녹화',
     'The winner is': '당첨 순위',
     'Using skills': '스킬 활성화',
-    'Buy me a coffee': '지운사법님에게 카페라떼 사주기',
+    'Buy me a coffee': '지운사범님에게 카페라떼 사주기',
     First: '첫번째',
     Last: '마지막',
     'Wheel of fortune': '아이캔 도장',
